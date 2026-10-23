@@ -1,1 +1,2 @@
 Hi this is my first file
+Now i am editing this file in git bash
